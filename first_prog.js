@@ -9,3 +9,4 @@ const absolutepath=path.resolve(filePath);
 
 console.log(`path of the folder is : ${absolutepath}`);
 
+// new line
